@@ -14,11 +14,11 @@ The analysis revealed key trends in sales performance, including monthly variati
 What trends and patterns can be observed in the data, and what do they indicate? How can ProApp, a shared economy startup learn from its data to adapt its business and address organisational issues such as managing new users, improving brand awareness  and devise strategies that would ensure that they remain competitive in this growing industry.
 
 Using SQl, I was able to assist ProApp to answer questions such as:
-	* The service categories with the highest user rating
-	* The service categories with the lowest user rating
-	* The service categories that generate the most revenue
-	* The service categories in high demand and 
-	* The average rating for across users on the app.
+* The service categories with the highest user rating
+* The service categories with the lowest user rating
+* The service categories that generate the most revenue
+* The service categories in high demand and 
+* The average rating for across users on the app.
 	
 The purpose of these SQL queries is to address the key areas of focus, including how the company can better manage taskers and users, minimise overhead when managing newly registered users, and resolve business issues.
 
@@ -34,12 +34,12 @@ This Excel dashboard consists of charts and slicers that offer a descriptive vie
 The goal of this dashboard is to assist hospitals organise immediate triage and prioritise patients based on the severity of their condition. Hospitals can use this data to help monitor the availability of resources in real-time, allowing for efficient allocation and utilisation of resources. Healthcare professionals can make informed decisions in a time conscious way by accessing real-time data on patients. This can ensure efficient resource utilisation and improve overall ER operations.
 
 Several visualisations were created to look at:
-	* Average wait time across the entire dataset
-	* Average wait time by month
-	* Average patient satisfaction score across entire dataset
-	* Average patient satisfaction score by month
-	* Number of patient visits by age per month
-	* Number of patient visits by race
-	* Number of patient referrals by department
-	* Average wait time by hour and day
+* Average wait time across the entire dataset
+* Average wait time by month
+* Average patient satisfaction score across entire dataset
+* Average patient satisfaction score by month
+* Number of patient visits by age per month
+* Number of patient visits by race
+* Number of patient referrals by department
+* Average wait time by hour and day
 
