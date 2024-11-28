@@ -24,6 +24,7 @@ The purpose of these SQL queries is to address the key areas of focus, including
 
 ## Excel
 *Coffee Sales Dashboard* 
+
 To analyse and visualise business data about coffee sales, I used Microsoft Excel to create an interactive dashboard. The goal of this dashboard is to show insights into various aspects of coffee sales, customer behaviour, and product performance. 
 
 In Excel, XLOOKUP, Pivot tables and other formulas were used create a dashboard that sought to visualise sales over time, the sales per country and the top five customers based on raw data gathered about a coffee company's products, customers and orders.
@@ -31,6 +32,8 @@ In Excel, XLOOKUP, Pivot tables and other formulas were used create a dashboard 
 This Excel dashboard consists of charts and slicers that offer a descriptive view of the dataset. Slicers are used as to tool to filter the data by various criteria such as date, roast type, size and whether the customer has a loyalty card. This provides a dynamic and interactive user experience, that provides greater detail and deeper insights.
 
 ## Tableau
+https://public.tableau.com/app/profile/baratimn/viz/ERDashboard_17327602927860/Dashboard1 
+
 The goal of this dashboard is to assist hospitals organise immediate triage and prioritise patients based on the severity of their condition. Hospitals can use this data to help monitor the availability of resources in real-time, allowing for efficient allocation and utilisation of resources. Healthcare professionals can make informed decisions in a time conscious way by accessing real-time data on patients. This can ensure efficient resource utilisation and improve overall ER operations.
 
 Several visualisations were created to look at:
